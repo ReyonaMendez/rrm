@@ -1,0 +1,62 @@
+body
+{
+    margin: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0.966),rgb(10, 18, 44));
+   
+
+}
+.mainbody{
+    width: auto;
+    height: auto;
+    background: linear-gradient(rgba(0, 0, 0, 0.966),rgb(10, 18, 44));
+    
+}
+.cal{
+    background: linear-gradient(rgb(102, 103, 104),rgba(91, 199, 190, 0.966),rgb(112, 175, 184),rgba(91, 199, 190, 0.966));
+    width: 400px;
+    height: 600px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    border-color: rgb(109, 142, 155);
+}
+#screen{
+
+    float: left;
+    width: 85%;
+    height: 75px;
+    margin-top: 86px;
+    margin-left: 26px;
+    pointer-events: none;
+    border-radius: 4px;
+    border-color: rgb(12, 12, 12);
+    background: linear-gradient(rgb(190, 186, 186)) );
+}
+.buttons
+{
+    width: 400px;
+    height: 100%;
+    padding-top: 229px;
+}
+
+
+
+.btn{
+    width: 70px;
+    height: 45px;
+    margin-left: 17px;
+    margin-top: 17px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: rgba(34, 16, 51, 0.781);
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.row{
+    padding-left: 10px;
+    padding-right: 10px;
+}
